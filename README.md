@@ -1,5 +1,5 @@
 # group_activity
-Through this activity, we will collaborate in groups to develop HTML pages on "Lessons Learned from the COVID 19 Response" using text, images, and links . The collaborations will help to showcase the power of Git in version control, along with the practicalities of using key functions via GitHub and GitHub Desktop.
+Through this activity, we will collaborate in groups to develop HTML pages on lessons learned from the Covid 19 response using text, images, and links . The collaborations will help to showcase the power of Git in version control, along with the practicalities of using key functions via GitHub and GitHub Desktop.
 
 Utilizing branching, along with adds and commits and pushes and pulls between your local and remote repositories, will be useful to reduce conflicts and improve overall presentation. It will also allow for more real-time experimentation.
 
